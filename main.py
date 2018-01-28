@@ -11,8 +11,7 @@ from PIL import Image, ImageDraw, ImageFont
 #Wiring config
 motor_pin = 4
 button_pin = 24
-
-#OLED screen config
+#OLED screen
 RST = 13
 DC = 11
 SPI_PORT = 0
